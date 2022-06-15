@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.42fac1f0.chunk.css",
+    "main.js": "./static/js/main.a6ebbc6e.chunk.js",
+    "main.js.map": "./static/js/main.a6ebbc6e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b044ddb6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b044ddb6.js.map",
+    "static/js/2.af7fd837.chunk.js": "./static/js/2.af7fd837.chunk.js",
+    "static/js/2.af7fd837.chunk.js.map": "./static/js/2.af7fd837.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.954b80e4dbdb639eebdef81c5e64d16c.js": "./precache-manifest.954b80e4dbdb639eebdef81c5e64d16c.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.42fac1f0.chunk.css.map": "./static/css/main.42fac1f0.chunk.css.map",
+    "static/js/2.af7fd837.chunk.js.LICENSE.txt": "./static/js/2.af7fd837.chunk.js.LICENSE.txt",
+    "static/js/main.a6ebbc6e.chunk.js.LICENSE.txt": "./static/js/main.a6ebbc6e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/toast.c0d3c94c.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b044ddb6.js",
+    "static/js/2.af7fd837.chunk.js",
+    "static/css/main.42fac1f0.chunk.css",
+    "static/js/main.a6ebbc6e.chunk.js"
+  ]
+}
