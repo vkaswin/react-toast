@@ -1,6 +1,6 @@
 {
-  "name": "reactjs-toast",
-  "version": "1.0.0",
+  "name": "reactjs-toastify",
+  "version": "1.0.1",
   "description": "React Toast is a library for showing notifications in your app",
   "author": "https://github.com/vkaswin/react-toast.git",
   "license": "MIT",
