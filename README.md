@@ -1,6 +1,6 @@
 # React Toast
 
-> React Toast is a library for showing notifications in your app [DEMO](https://vkaswin.github.io/react-intro)
+> React Toast is a library for showing notifications in your app [DEMO](https://vkaswin.github.io/react-toast)
 
 [![NPM](https://img.shields.io/npm/v/reactjs-toast.svg)](https://www.npmjs.com/package/reactjs-toast) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
