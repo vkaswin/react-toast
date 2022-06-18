@@ -98,7 +98,7 @@ const App = () => {
             return (
               <div key={index}>
                 <input
-                  id="position-1"
+                  id={`position-${index}`}
                   type="radio"
                   name="position"
                   value={value}
